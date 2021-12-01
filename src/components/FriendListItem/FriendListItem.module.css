@@ -1,0 +1,22 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+  border: solid 1px darkgray;
+  margin-bottom: 10px;
+}
+
+.status {
+  margin-right: 15px;
+  width: 15px;
+  height: 15px;
+  border: solid 1px #000000;
+  border-radius: 50%;
+}
+
+.avatar {
+  margin-right: 15px;
+}
